@@ -1,0 +1,30 @@
+h2{
+    background-color:paleturquoise;
+    color:darkcyan;
+}
+.lollipop{
+    background-color:rgb(155, 233, 235)
+}
+#pizza{
+    background-color:rgb(199, 250, 250)
+}
+h3{
+    color:darkcyan;
+}
+.crumble:hover{
+    from{
+        color:red;
+    }
+    to{
+        color:SkyBlue;
+    }
+}
+header{
+    color:red;
+    font-size:40px;
+    font-family:Fantasy;
+    text-align:center;
+}
+main{
+    text-align:center;
+}
